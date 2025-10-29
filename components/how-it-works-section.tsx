@@ -3,7 +3,7 @@ export function HowItWorksSection() {
     {
       number: "01",
       icon: "⚙️",
-      title: "Custom integration built in 2-3 weeks after API access provided",
+      title: "Custom integration built within one week after API access provided",
       description:
         "Custom setup with your existing property management platform through our API or webhook integration.",
     },
